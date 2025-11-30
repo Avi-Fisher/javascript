@@ -46,11 +46,11 @@
 
 // 7
 
-let g = 3
-console.log(g);
+// let g = 3
+// console.log(g);
 
-g = g * 2
-console.log(g);
+// g = g * 2
+// console.log(g);
 
 
 
